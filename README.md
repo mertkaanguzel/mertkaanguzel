@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 
 <a href="https://www.linkedin.com/in/mert-kaan-guzel/">
@@ -10,4 +10,4 @@
 
 <br />
 
-I'm a newly graduated computer engineer and willing to work as a back end developer. Currently, I'm self-learning Node JS (Express) and developing APIs.
+I'm a newly graduated computer engineer and willing to work as a backend developer. Currently, I'm self-learning Node JS (Express) and developing APIs.
