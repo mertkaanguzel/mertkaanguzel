@@ -10,4 +10,5 @@
 
 <br />
 
-I'm a newly graduated computer engineer and willing to work as a backend developer. Currently, I'm self-learning Node JS (Express) and developing APIs.
+I'm a newly graduated computer engineer and willing to work as a backend developer. Currently, I've been studying Node for
+the past six months and have built several projects.
