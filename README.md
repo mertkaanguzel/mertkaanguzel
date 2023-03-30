@@ -8,4 +8,4 @@
 <br />
 
 I'm a newly graduated computer engineer and willing to work as a backend developer. Currently, I've been studying Node for
-the past 8 months and have built several projects.
+the past eight months and have built several projects.
