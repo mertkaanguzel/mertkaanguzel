@@ -7,5 +7,4 @@
 
 <br />
 
-I'm a newly graduated computer engineer and willing to work as a backend developer. Currently, I've been studying Node for
-the past eight months and have built several projects.
+I'm a newly graduated computer engineer and willing to work as a backend developer. Currently, I've been working on the Node ecosystem for the last year and have built several projects.
